@@ -1,0 +1,507 @@
+
+2017-09-28 08:33:17...Begin System Check Process *************
+2017-09-28 08:33:17...Found at least one supported DB Type
+2017-09-28 08:33:17...XML Parsing Support Found
+2017-09-28 08:33:17...MBString Support Found
+2017-09-28 08:33:17...ZIP Support Found
+2017-09-28 08:33:17.../custom directory and subdirectory check passed
+2017-09-28 08:33:17.../data/upoad directory and subdirectory check passed
+2017-09-28 08:33:17.../cache directory and subdirectory check passed
+2017-09-28 08:33:18.../module  directory and subdirectory check passed
+2017-09-28 08:33:18...php.ini location found. C:\wamp\bin\apache\Apache2.2.11\bin\php.ini
+2017-09-28 08:33:18...Outputting HTML for System check
+2017-09-28 08:33:18...No Errors were found *************
+2017-09-28 08:34:08...Begin DB Check Process *************
+2017-09-28 08:34:08...Basic form info is valid, continuing Process.
+2017-09-28 08:34:08...testing with mysql
+2017-09-28 08:34:08...MySQLI library detected
+2017-09-28 08:34:08...Could not make Connection using  host: 34.192.248.163, usr: root
+2017-09-28 08:34:08...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:08...Testing priviliged account...
+2017-09-28 08:34:08...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:08...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2017-09-28 08:34:08..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:08..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:08...End DB Check Process *************
+2017-09-28 08:34:33...Begin DB Check Process *************
+2017-09-28 08:34:33...Basic form info is valid, continuing Process.
+2017-09-28 08:34:33...testing with mysql
+2017-09-28 08:34:33...MySQLI library detected
+2017-09-28 08:34:33...Could not make Connection using  host: 34.192.248.163, usr: root
+2017-09-28 08:34:33...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:33...Testing priviliged account...
+2017-09-28 08:34:33...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:33...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2017-09-28 08:34:33..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:33..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:34:33...End DB Check Process *************
+2017-09-28 08:35:13...Begin DB Check Process *************
+2017-09-28 08:35:13...Basic form info is valid, continuing Process.
+2017-09-28 08:35:13...testing with mysql
+2017-09-28 08:35:13...MySQLI library detected
+2017-09-28 08:35:13...Could not make Connection using  host: 34.192.248.163, usr: root
+2017-09-28 08:35:13...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:13...Testing priviliged account...
+2017-09-28 08:35:13...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:13...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2017-09-28 08:35:13..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:13..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:13...End DB Check Process *************
+2017-09-28 08:35:53...Begin DB Check Process *************
+2017-09-28 08:35:53...Basic form info is valid, continuing Process.
+2017-09-28 08:35:53...testing with mysql
+2017-09-28 08:35:53...MySQLI library detected
+2017-09-28 08:35:53...Could not make Connection using  host: 34.192.248.163, usr: root
+2017-09-28 08:35:53...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:53...Testing priviliged account...
+2017-09-28 08:35:53...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:53...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2017-09-28 08:35:53..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:53..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '34.192.248.163' is not allowed to connect to this MySQL server).
+2017-09-28 08:35:53...End DB Check Process *************
+2017-09-28 08:40:38...Begin DB Check Process *************
+2017-09-28 08:40:38...Basic form info is valid, continuing Process.
+2017-09-28 08:40:38...testing with mysql
+2017-09-28 08:40:38...MySQLI library detected
+2017-09-28 08:40:38...Could not make Connection using  host: 192.168.1.20, usr: root
+2017-09-28 08:40:38...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '192.168.1.20' is not allowed to connect to this MySQL server).
+2017-09-28 08:40:38...Testing priviliged account...
+2017-09-28 08:40:38...ERROR:: The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '192.168.1.20' is not allowed to connect to this MySQL server).
+2017-09-28 08:40:38...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2017-09-28 08:40:38..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password. 1130: Host '192.168.1.20' is not allowed to connect to this MySQL server).
+2017-09-28 08:40:38..... The provided database administrator username and/or password is invalid, and a connection to the database could not be established.  Please enter a valid user name and password.  (Error: 1130: Host '192.168.1.20' is not allowed to connect to this MySQL server).
+2017-09-28 08:40:38...End DB Check Process *************
+2017-09-28 08:40:50...Begin DB Check Process *************
+2017-09-28 08:40:50...Basic form info is valid, continuing Process.
+2017-09-28 08:40:50...testing with mysql
+2017-09-28 08:40:50...MySQLI library detected
+2017-09-28 08:40:50...Connection made using  host: localhost, usr: root
+2017-09-28 08:40:50...Testing priviliged account...
+2017-09-28 08:40:50...Connection made for Privileged admin account using  host: localhost, usr: root
+2017-09-28 08:40:50...ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+2017-09-28 08:40:50...DB Selected, will reuse sugarcrm
+2017-09-28 08:40:50...Passed DB Version check, version is 5.1.51
+2017-09-28 08:40:50...WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+2017-09-28 08:40:50...End DB Check Process *************
+2017-09-28 08:42:01...calling handleSugarConfig()
+2017-09-28 08:42:01...calling handleLog4Php()
+2017-09-28 08:42:01...calling handleHtaccess()
+2017-09-28 08:42:01...calling handleDbCharsetCollation()
+2017-09-28 08:42:01...looping through all the Beans and create their tables
+2017-09-28 08:42:01...processing table acl_actions
+2017-09-28 08:42:01...dropping table acl_actions
+2017-09-28 08:42:01...creating table acl_actions
+2017-09-28 08:42:01...creating Relationship Meta for ACLAction
+2017-09-28 08:42:01...processing table acl_roles
+2017-09-28 08:42:01...dropping table acl_roles
+2017-09-28 08:42:01...creating table acl_roles
+2017-09-28 08:42:01...creating Relationship Meta for ACLRole
+2017-09-28 08:42:01...processing table relationships
+2017-09-28 08:42:01...dropping table relationships
+2017-09-28 08:42:01...creating table relationships
+2017-09-28 08:42:01...creating Relationship Meta for Relationship
+2017-09-28 08:42:01...processing table leads
+2017-09-28 08:42:01...dropping table leads
+2017-09-28 08:42:01...creating table leads
+2017-09-28 08:42:01...creating Relationship Meta for Lead
+2017-09-28 08:42:01...processing table cases
+2017-09-28 08:42:01...dropping table cases
+2017-09-28 08:42:01...creating table cases
+2017-09-28 08:42:01...creating Relationship Meta for Case
+2017-09-28 08:42:01...processing table bugs
+2017-09-28 08:42:01...dropping table bugs
+2017-09-28 08:42:01...creating table bugs
+2017-09-28 08:42:01...creating Relationship Meta for Bug
+2017-09-28 08:42:01...processing table users
+2017-09-28 08:42:01...dropping table users
+2017-09-28 08:42:01...creating table users
+2017-09-28 08:42:01...creating Relationship Meta for User
+2017-09-28 08:42:01...processing table campaign_log
+2017-09-28 08:42:01...dropping table campaign_log
+2017-09-28 08:42:01...creating table campaign_log
+2017-09-28 08:42:01...creating Relationship Meta for CampaignLog
+2017-09-28 08:42:01...processing table project
+2017-09-28 08:42:01...dropping table project
+2017-09-28 08:42:01...creating table project
+2017-09-28 08:42:01...creating Relationship Meta for Project
+2017-09-28 08:42:01...processing table project_task
+2017-09-28 08:42:01...dropping table project_task
+2017-09-28 08:42:01...creating table project_task
+2017-09-28 08:42:01...creating Relationship Meta for ProjectTask
+2017-09-28 08:42:01...processing table campaigns
+2017-09-28 08:42:01...dropping table campaigns
+2017-09-28 08:42:01...creating table campaigns
+2017-09-28 08:42:01...creating Relationship Meta for Campaign
+2017-09-28 08:42:01...processing table prospect_lists
+2017-09-28 08:42:01...dropping table prospect_lists
+2017-09-28 08:42:01...creating table prospect_lists
+2017-09-28 08:42:01...creating Relationship Meta for ProspectList
+2017-09-28 08:42:01...processing table prospects
+2017-09-28 08:42:01...dropping table prospects
+2017-09-28 08:42:01...creating table prospects
+2017-09-28 08:42:01...creating Relationship Meta for Prospect
+2017-09-28 08:42:01...processing table email_marketing
+2017-09-28 08:42:01...dropping table email_marketing
+2017-09-28 08:42:01...creating table email_marketing
+2017-09-28 08:42:01...creating Relationship Meta for EmailMarketing
+2017-09-28 08:42:01...processing table campaign_trkrs
+2017-09-28 08:42:01...dropping table campaign_trkrs
+2017-09-28 08:42:02...creating table campaign_trkrs
+2017-09-28 08:42:02...creating Relationship Meta for CampaignTracker
+2017-09-28 08:42:02...processing table releases
+2017-09-28 08:42:02...dropping table releases
+2017-09-28 08:42:02...creating table releases
+2017-09-28 08:42:02...creating Relationship Meta for Release
+2017-09-28 08:42:02...processing table emailman
+2017-09-28 08:42:02...dropping table emailman
+2017-09-28 08:42:02...creating table emailman
+2017-09-28 08:42:02...creating Relationship Meta for EmailMan
+2017-09-28 08:42:02...processing table schedulers
+2017-09-28 08:42:02...dropping table schedulers
+2017-09-28 08:42:02...creating table schedulers
+2017-09-28 08:42:02...creating Relationship Meta for schedulers
+2017-09-28 08:42:02...processing table schedulers_times
+2017-09-28 08:42:02...dropping table schedulers_times
+2017-09-28 08:42:02...creating table schedulers_times
+2017-09-28 08:42:02...creating Relationship Meta for SchedulersJob
+2017-09-28 08:42:02...processing table contacts
+2017-09-28 08:42:02...dropping table contacts
+2017-09-28 08:42:02...creating table contacts
+2017-09-28 08:42:02...creating Relationship Meta for Contact
+2017-09-28 08:42:02...processing table accounts
+2017-09-28 08:42:02...dropping table accounts
+2017-09-28 08:42:02...creating table accounts
+2017-09-28 08:42:02...creating Relationship Meta for Account
+2017-09-28 08:42:02...processing table opportunities
+2017-09-28 08:42:02...dropping table opportunities
+2017-09-28 08:42:02...creating table opportunities
+2017-09-28 08:42:02...creating Relationship Meta for Opportunity
+2017-09-28 08:42:02...processing table email_templates
+2017-09-28 08:42:02...dropping table email_templates
+2017-09-28 08:42:02...creating table email_templates
+2017-09-28 08:42:02...creating Relationship Meta for EmailTemplate
+2017-09-28 08:42:02...processing table notes
+2017-09-28 08:42:02...dropping table notes
+2017-09-28 08:42:02...creating table notes
+2017-09-28 08:42:02...creating Relationship Meta for Note
+2017-09-28 08:42:02...processing table calls
+2017-09-28 08:42:02...dropping table calls
+2017-09-28 08:42:02...creating table calls
+2017-09-28 08:42:02...creating Relationship Meta for Call
+2017-09-28 08:42:02...processing table emails
+2017-09-28 08:42:02...dropping table emails
+2017-09-28 08:42:02...creating table emails
+2017-09-28 08:42:02...creating Relationship Meta for Email
+2017-09-28 08:42:02...processing table meetings
+2017-09-28 08:42:02...dropping table meetings
+2017-09-28 08:42:02...creating table meetings
+2017-09-28 08:42:02...creating Relationship Meta for Meeting
+2017-09-28 08:42:02...processing table tasks
+2017-09-28 08:42:02...dropping table tasks
+2017-09-28 08:42:02...creating table tasks
+2017-09-28 08:42:02...creating Relationship Meta for Task
+2017-09-28 08:42:02...processing table users
+2017-09-28 08:42:02...processing table users
+2017-09-28 08:42:02...processing table currencies
+2017-09-28 08:42:02...dropping table currencies
+2017-09-28 08:42:02...creating table currencies
+2017-09-28 08:42:02...creating Relationship Meta for Currency
+2017-09-28 08:42:02...processing table tracker
+2017-09-28 08:42:02...dropping table tracker
+2017-09-28 08:42:02...creating table tracker
+2017-09-28 08:42:02...creating Relationship Meta for Tracker
+2017-09-28 08:42:02...processing table import_maps
+2017-09-28 08:42:02...dropping table import_maps
+2017-09-28 08:42:02...creating table import_maps
+2017-09-28 08:42:02...creating Relationship Meta for ImportMap
+2017-09-28 08:42:02...processing table users_last_import
+2017-09-28 08:42:02...dropping table users_last_import
+2017-09-28 08:42:02...creating table users_last_import
+2017-09-28 08:42:02...creating Relationship Meta for UsersLastImport
+2017-09-28 08:42:02...processing table config
+2017-09-28 08:42:02...dropping table config
+2017-09-28 08:42:02...creating table config
+2017-09-28 08:42:02...creating Relationship Meta for Administration
+2017-09-28 08:42:02...processing table upgrade_history
+2017-09-28 08:42:02...dropping table upgrade_history
+2017-09-28 08:42:02...creating table upgrade_history
+2017-09-28 08:42:02...creating Relationship Meta for UpgradeHistory
+2017-09-28 08:42:02...processing table vcals
+2017-09-28 08:42:02...dropping table vcals
+2017-09-28 08:42:02...creating table vcals
+2017-09-28 08:42:02...creating Relationship Meta for vCal
+2017-09-28 08:42:02...processing table versions
+2017-09-28 08:42:02...dropping table versions
+2017-09-28 08:42:02...creating table versions
+2017-09-28 08:42:02...creating Relationship Meta for Version
+2017-09-28 08:42:02...processing table roles
+2017-09-28 08:42:02...dropping table roles
+2017-09-28 08:42:02...creating table roles
+2017-09-28 08:42:02...creating Relationship Meta for Role
+2017-09-28 08:42:02...processing table documents
+2017-09-28 08:42:02...dropping table documents
+2017-09-28 08:42:02...creating table documents
+2017-09-28 08:42:02...creating Relationship Meta for Document
+2017-09-28 08:42:02...processing table document_revisions
+2017-09-28 08:42:02...dropping table document_revisions
+2017-09-28 08:42:02...creating table document_revisions
+2017-09-28 08:42:02...creating Relationship Meta for DocumentRevision
+2017-09-28 08:42:02...processing table fields_meta_data
+2017-09-28 08:42:02...dropping table fields_meta_data
+2017-09-28 08:42:02...creating table fields_meta_data
+2017-09-28 08:42:02...creating Relationship Meta for FieldsMetaData
+2017-09-28 08:42:02...processing table inbound_email
+2017-09-28 08:42:02...dropping table inbound_email
+2017-09-28 08:42:02...creating table inbound_email
+2017-09-28 08:42:02...creating Relationship Meta for InboundEmail
+2017-09-28 08:42:02...processing table saved_search
+2017-09-28 08:42:02...dropping table saved_search
+2017-09-28 08:42:02...creating table saved_search
+2017-09-28 08:42:02...creating Relationship Meta for SavedSearch
+2017-09-28 08:42:02...processing table user_preferences
+2017-09-28 08:42:02...dropping table user_preferences
+2017-09-28 08:42:02...creating table user_preferences
+2017-09-28 08:42:02...creating Relationship Meta for UserPreference
+2017-09-28 08:42:02...processing table 
+2017-09-28 08:42:02...processing table email_addresses
+2017-09-28 08:42:03...dropping table email_addresses
+2017-09-28 08:42:03...creating table email_addresses
+2017-09-28 08:42:03...creating Relationship Meta for EmailAddress
+2017-09-28 08:42:03...processing table sugarfeed
+2017-09-28 08:42:03...dropping table sugarfeed
+2017-09-28 08:42:03...creating table sugarfeed
+2017-09-28 08:42:03...creating Relationship Meta for SugarFeed
+2017-09-28 08:42:03...processing table eapm
+2017-09-28 08:42:03...dropping table eapm
+2017-09-28 08:42:03...creating table eapm
+2017-09-28 08:42:03...creating Relationship Meta for EAPM
+2017-09-28 08:42:03...Begin creating Defaults
+2017-09-28 08:42:03...insert defaults into config table
+2017-09-28 08:42:03...Creating default users
+2017-09-28 08:42:03...Creating default scheduler jobs
+2017-09-28 08:42:03...Enable SugarFeeds
+2017-09-28 08:42:03...populating the db with seed data
+2017-09-28 08:42:20...Installation has completed *********
+2019-08-05 11:41:47...Begin System Check Process *************
+2019-08-05 11:41:47...Found at least one supported DB Type
+2019-08-05 11:41:47...XML Parsing Support Found
+2019-08-05 11:41:47...MBString Support Found
+2019-08-05 11:41:47...ZIP Support Found
+2019-08-05 11:41:47.../custom directory and subdirectory check passed
+2019-08-05 11:41:47.../data/upoad directory and subdirectory check passed
+2019-08-05 11:41:47.../cache directory and subdirectory check passed
+2019-08-05 11:42:01.../module  directory and subdirectory check passed
+2019-08-05 11:42:01...php.ini location found. C:\wamp64\bin\apache\apache2.4.27\bin\php.ini
+2019-08-05 11:42:01...Outputting HTML for System check
+2019-08-05 11:42:01...No Errors were found *************
+2019-08-05 11:44:43...Begin DB Check Process *************
+2019-08-05 11:44:43...Basic form info is valid, continuing Process.
+2019-08-05 11:44:43...testing with mysql
+2019-08-05 11:44:43...MySQLI library detected
+2019-08-05 11:44:43...Connection made using  host: localhost, usr: root
+2019-08-05 11:44:43...Testing priviliged account...
+2019-08-05 11:44:43...Connection made for Privileged admin account using  host: localhost, usr: root
+2019-08-05 11:44:43...ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+2019-08-05 11:44:43...DB Selected, will reuse sugarcrm
+2019-08-05 11:44:43...Passed DB Version check, version is 5.7.11
+2019-08-05 11:44:43...WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+2019-08-05 11:44:43...End DB Check Process *************
+2019-08-05 11:45:50...calling handleSugarConfig()
+2019-08-05 11:45:50...calling handleLog4Php()
+2019-08-05 11:45:50...calling handleHtaccess()
+2019-08-05 11:45:50...calling handleDbCharsetCollation()
+2019-08-05 11:45:54...looping through all the Beans and create their tables
+2019-08-05 11:45:54...processing table acl_actions
+2019-08-05 11:45:54...dropping table acl_actions
+2019-08-05 11:45:55...creating table acl_actions
+2019-08-05 11:45:55...creating Relationship Meta for ACLAction
+2019-08-05 11:45:55...processing table acl_roles
+2019-08-05 11:45:55...dropping table acl_roles
+2019-08-05 11:45:56...creating table acl_roles
+2019-08-05 11:45:56...creating Relationship Meta for ACLRole
+2019-08-05 11:45:56...processing table relationships
+2019-08-05 11:45:56...dropping table relationships
+2019-08-05 11:45:57...creating table relationships
+2019-08-05 11:45:57...creating Relationship Meta for Relationship
+2019-08-05 11:45:57...processing table leads
+2019-08-05 11:45:57...dropping table leads
+2019-08-05 11:46:02...creating table leads
+2019-08-05 11:46:02...creating Relationship Meta for Lead
+2019-08-05 11:46:03...processing table cases
+2019-08-05 11:46:03...dropping table cases
+2019-08-05 11:46:06...creating table cases
+2019-08-05 11:46:06...creating Relationship Meta for Case
+2019-08-05 11:46:07...processing table bugs
+2019-08-05 11:46:07...dropping table bugs
+2019-08-05 11:46:10...creating table bugs
+2019-08-05 11:46:10...creating Relationship Meta for Bug
+2019-08-05 11:46:11...processing table users
+2019-08-05 11:46:11...dropping table users
+2019-08-05 11:46:13...creating table users
+2019-08-05 11:46:13...creating Relationship Meta for User
+2019-08-05 11:46:13...processing table campaign_log
+2019-08-05 11:46:13...dropping table campaign_log
+2019-08-05 11:46:14...creating table campaign_log
+2019-08-05 11:46:14...creating Relationship Meta for CampaignLog
+2019-08-05 11:46:14...processing table project
+2019-08-05 11:46:14...dropping table project
+2019-08-05 11:46:16...creating table project
+2019-08-05 11:46:16...creating Relationship Meta for Project
+2019-08-05 11:46:17...processing table project_task
+2019-08-05 11:46:17...dropping table project_task
+2019-08-05 11:46:19...creating table project_task
+2019-08-05 11:46:19...creating Relationship Meta for ProjectTask
+2019-08-05 11:46:20...processing table campaigns
+2019-08-05 11:46:20...dropping table campaigns
+2019-08-05 11:46:23...creating table campaigns
+2019-08-05 11:46:23...creating Relationship Meta for Campaign
+2019-08-05 11:46:24...processing table prospect_lists
+2019-08-05 11:46:24...dropping table prospect_lists
+2019-08-05 11:46:26...creating table prospect_lists
+2019-08-05 11:46:26...creating Relationship Meta for ProspectList
+2019-08-05 11:46:26...processing table prospects
+2019-08-05 11:46:26...dropping table prospects
+2019-08-05 11:46:30...creating table prospects
+2019-08-05 11:46:30...creating Relationship Meta for Prospect
+2019-08-05 11:46:31...processing table email_marketing
+2019-08-05 11:46:31...dropping table email_marketing
+2019-08-05 11:46:33...creating table email_marketing
+2019-08-05 11:46:33...creating Relationship Meta for EmailMarketing
+2019-08-05 11:46:33...processing table campaign_trkrs
+2019-08-05 11:46:33...dropping table campaign_trkrs
+2019-08-05 11:46:34...creating table campaign_trkrs
+2019-08-05 11:46:34...creating Relationship Meta for CampaignTracker
+2019-08-05 11:46:34...processing table releases
+2019-08-05 11:46:35...dropping table releases
+2019-08-05 11:46:35...creating table releases
+2019-08-05 11:46:35...creating Relationship Meta for Release
+2019-08-05 11:46:36...processing table emailman
+2019-08-05 11:46:36...dropping table emailman
+2019-08-05 11:46:37...creating table emailman
+2019-08-05 11:46:37...creating Relationship Meta for EmailMan
+2019-08-05 11:46:38...processing table schedulers
+2019-08-05 11:46:38...dropping table schedulers
+2019-08-05 11:46:39...creating table schedulers
+2019-08-05 11:46:39...creating Relationship Meta for schedulers
+2019-08-05 11:46:40...processing table schedulers_times
+2019-08-05 11:46:40...dropping table schedulers_times
+2019-08-05 11:46:41...creating table schedulers_times
+2019-08-05 11:46:41...creating Relationship Meta for SchedulersJob
+2019-08-05 11:46:41...processing table contacts
+2019-08-05 11:46:41...dropping table contacts
+2019-08-05 11:46:44...creating table contacts
+2019-08-05 11:46:44...creating Relationship Meta for Contact
+2019-08-05 11:46:46...processing table accounts
+2019-08-05 11:46:46...dropping table accounts
+2019-08-05 11:46:49...creating table accounts
+2019-08-05 11:46:49...creating Relationship Meta for Account
+2019-08-05 11:46:51...processing table opportunities
+2019-08-05 11:46:51...dropping table opportunities
+2019-08-05 11:46:54...creating table opportunities
+2019-08-05 11:46:54...creating Relationship Meta for Opportunity
+2019-08-05 11:46:55...processing table email_templates
+2019-08-05 11:46:55...dropping table email_templates
+2019-08-05 11:46:57...creating table email_templates
+2019-08-05 11:46:57...creating Relationship Meta for EmailTemplate
+2019-08-05 11:46:57...processing table notes
+2019-08-05 11:46:57...dropping table notes
+2019-08-05 11:46:59...creating table notes
+2019-08-05 11:46:59...creating Relationship Meta for Note
+2019-08-05 11:47:00...processing table calls
+2019-08-05 11:47:00...dropping table calls
+2019-08-05 11:47:04...creating table calls
+2019-08-05 11:47:04...creating Relationship Meta for Call
+2019-08-05 11:47:04...processing table emails
+2019-08-05 11:47:04...dropping table emails
+2019-08-05 11:47:06...creating table emails
+2019-08-05 11:47:06...creating Relationship Meta for Email
+2019-08-05 11:47:07...processing table meetings
+2019-08-05 11:47:07...dropping table meetings
+2019-08-05 11:47:09...creating table meetings
+2019-08-05 11:47:09...creating Relationship Meta for Meeting
+2019-08-05 11:47:10...processing table tasks
+2019-08-05 11:47:10...dropping table tasks
+2019-08-05 11:47:14...creating table tasks
+2019-08-05 11:47:14...creating Relationship Meta for Task
+2019-08-05 11:47:14...processing table users
+2019-08-05 11:47:14...processing table users
+2019-08-05 11:47:15...processing table currencies
+2019-08-05 11:47:15...dropping table currencies
+2019-08-05 11:47:16...creating table currencies
+2019-08-05 11:47:16...creating Relationship Meta for Currency
+2019-08-05 11:47:16...processing table tracker
+2019-08-05 11:47:16...dropping table tracker
+2019-08-05 11:47:17...creating table tracker
+2019-08-05 11:47:17...creating Relationship Meta for Tracker
+2019-08-05 11:47:17...processing table import_maps
+2019-08-05 11:47:17...dropping table import_maps
+2019-08-05 11:47:18...creating table import_maps
+2019-08-05 11:47:18...creating Relationship Meta for ImportMap
+2019-08-05 11:47:18...processing table users_last_import
+2019-08-05 11:47:18...dropping table users_last_import
+2019-08-05 11:47:20...creating table users_last_import
+2019-08-05 11:47:20...creating Relationship Meta for UsersLastImport
+2019-08-05 11:47:20...processing table config
+2019-08-05 11:47:20...dropping table config
+2019-08-05 11:47:21...creating table config
+2019-08-05 11:47:21...creating Relationship Meta for Administration
+2019-08-05 11:47:21...processing table upgrade_history
+2019-08-05 11:47:21...dropping table upgrade_history
+2019-08-05 11:47:22...creating table upgrade_history
+2019-08-05 11:47:22...creating Relationship Meta for UpgradeHistory
+2019-08-05 11:47:22...processing table vcals
+2019-08-05 11:47:22...dropping table vcals
+2019-08-05 11:47:23...creating table vcals
+2019-08-05 11:47:23...creating Relationship Meta for vCal
+2019-08-05 11:47:23...processing table versions
+2019-08-05 11:47:23...dropping table versions
+2019-08-05 11:47:24...creating table versions
+2019-08-05 11:47:24...creating Relationship Meta for Version
+2019-08-05 11:47:24...processing table roles
+2019-08-05 11:47:24...dropping table roles
+2019-08-05 11:47:26...creating table roles
+2019-08-05 11:47:26...creating Relationship Meta for Role
+2019-08-05 11:47:26...processing table documents
+2019-08-05 11:47:26...dropping table documents
+2019-08-05 11:47:29...creating table documents
+2019-08-05 11:47:29...creating Relationship Meta for Document
+2019-08-05 11:47:30...processing table document_revisions
+2019-08-05 11:47:30...dropping table document_revisions
+2019-08-05 11:47:31...creating table document_revisions
+2019-08-05 11:47:31...creating Relationship Meta for DocumentRevision
+2019-08-05 11:47:31...processing table fields_meta_data
+2019-08-05 11:47:31...dropping table fields_meta_data
+2019-08-05 11:47:32...creating table fields_meta_data
+2019-08-05 11:47:32...creating Relationship Meta for FieldsMetaData
+2019-08-05 11:47:32...processing table inbound_email
+2019-08-05 11:47:32...dropping table inbound_email
+2019-08-05 11:47:34...creating table inbound_email
+2019-08-05 11:47:34...creating Relationship Meta for InboundEmail
+2019-08-05 11:47:34...processing table saved_search
+2019-08-05 11:47:34...dropping table saved_search
+2019-08-05 11:47:35...creating table saved_search
+2019-08-05 11:47:35...creating Relationship Meta for SavedSearch
+2019-08-05 11:47:35...processing table user_preferences
+2019-08-05 11:47:35...dropping table user_preferences
+2019-08-05 11:47:36...creating table user_preferences
+2019-08-05 11:47:36...creating Relationship Meta for UserPreference
+2019-08-05 11:47:36...processing table 
+2019-08-05 11:47:37...processing table email_addresses
+2019-08-05 11:47:37...dropping table email_addresses
+2019-08-05 11:47:38...creating table email_addresses
+2019-08-05 11:47:38...creating Relationship Meta for EmailAddress
+2019-08-05 11:47:38...processing table sugarfeed
+2019-08-05 11:47:38...dropping table sugarfeed
+2019-08-05 11:47:39...creating table sugarfeed
+2019-08-05 11:47:39...creating Relationship Meta for SugarFeed
+2019-08-05 11:47:40...processing table eapm
+2019-08-05 11:47:40...dropping table eapm
+2019-08-05 11:47:42...creating table eapm
+2019-08-05 11:47:42...creating Relationship Meta for EAPM
+2019-08-05 11:48:56...Begin creating Defaults
+2019-08-05 11:48:56...insert defaults into config table
+2019-08-05 11:48:58...Creating default users
+2019-08-05 11:48:58...Creating default scheduler jobs
+2019-08-05 11:48:59...Enable SugarFeeds
+2019-08-05 11:49:02...populating the db with seed data
+2019-08-05 12:00:23...Installation has completed *********
