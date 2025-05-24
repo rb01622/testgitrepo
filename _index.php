@@ -13,6 +13,11 @@
   padding-top: 2px;
 }
 
+.paging-nav {
+  text-align: left;
+  padding-top: 2px;
+}
+
 .paging-nav a {
   margin: auto 1px;
   text-decoration: none;

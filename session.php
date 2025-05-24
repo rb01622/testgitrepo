@@ -6,7 +6,7 @@ $api_key;
 $api_root_url;
 $zone_id;
 $port;
-$xml = '<request><apikey>'.$api_key.'</apikey></request>';
+$xml = '<request><Rajesh>'.$api_key.'</apikey></request>';
 
 
 $curl = curl_init();
